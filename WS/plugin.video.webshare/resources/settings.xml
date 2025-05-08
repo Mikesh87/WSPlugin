@@ -1,4 +1,0 @@
-<settings>
-    <setting id="username" type="text" label="Webshare Username" default="" />
-    <setting id="password" type="text" label="Webshare Password" option="hidden" default="" />
-</settings>
