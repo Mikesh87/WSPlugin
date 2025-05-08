@@ -1,0 +1,2 @@
+# WSPlugin
+Webshare plugin
